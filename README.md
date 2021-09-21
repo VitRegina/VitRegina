@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi, I'm Vitória Regina 😊👋
 
-<!--
-**VitRegina/VitRegina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning: Html and Css.<br>
+👯 I’m looking to collaborate on projects that can increase my experience.    
+😄 Pronouns: She/Her.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/VitRegina">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitRegina&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&border_radius=20px"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitRegina&layout=compact&langs_count=7&theme=synthwave&border_radius=20px"/>
+</div>
+<div align="center" style="display:inline_block"><br>
+  <img align="center" alt="Vitoria-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Vitoria-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Vitoria-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+</div>
+  
+  ##
+  
+<div align="center"> 
+  <a href="https://www.instagram.com/_vitoria.yre/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  <a href = "mailto:VitoriaSantos.ipms@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href = "https://www.facebook.com/profile.php?id=100006371313783"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+ 
+<div>
+  <img align="center" alt="Vitória-gif" src="https://cdn.discordapp.com/attachments/889572946300006450/889574286841483274/output-onlinegiftools.gif">
+</div>
