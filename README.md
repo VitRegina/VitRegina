@@ -6,9 +6,10 @@
 
 <div>
   <a href="https://github.com/VitRegina">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitRegina&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&border_radius=20px"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&border_radius=20px"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitRegina&layout=compact&langs_count=7&theme=synthwave&border_radius=20px"/>
 </div>
+ 
 <div align="center" style="display:inline_block"><br>
   <img align="center" alt="Vitoria-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Vitoria-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -25,3 +26,4 @@
 <div>
   <img align="center" alt="Vitória-gif" src="https://cdn.discordapp.com/attachments/889572946300006450/889574286841483274/output-onlinegiftools.gif">
 </div>
+<hr>
