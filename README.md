@@ -6,8 +6,7 @@
 
 <div>
   <a href="https://github.com/VitRegina">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&border_radius=20px"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitRegina&layout=compact&langs_count=7&theme=synthwave&border_radius=20px"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitRegina&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&border_radius=20px"/>
 </div>
  
 <div align="center" style="display:inline_block"><br>
@@ -23,7 +22,9 @@
   <a href = "mailto:VitoriaSantos.ipms@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href = "https://www.facebook.com/profile.php?id=100006371313783"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
  
-<div>
+<div align="left" text-align="justify">
+  <p> Olá me chamo Vitória Regina, tenho 18 anos, comecei o curso técnico de informática para internet em Setembro de 2021 e tenho objetivo de ser uma desenvolvedora Frond-End </p>
+<div align="center">
   <img align="center" alt="Vitória-gif" src="https://cdn.discordapp.com/attachments/889572946300006450/889574286841483274/output-onlinegiftools.gif">
 </div>
 <hr>
