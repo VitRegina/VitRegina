@@ -1,3 +1,28 @@
+<div>
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+</div>
+ 
+ 
 ### Hi, I'm Vitória Regina 😊👋
 
 🌱 I’m currently learning: Html and Css.<br>
@@ -28,3 +53,27 @@
   <img align="center" alt="Vitória-gif" src="https://cdn.discordapp.com/attachments/889572946300006450/889574286841483274/output-onlinegiftools.gif">
 </div>
 <hr>
+<div>
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
+ 
+</div>
