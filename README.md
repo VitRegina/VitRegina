@@ -8,16 +8,6 @@
   <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
   <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
   <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
-  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
-  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
-  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
-  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
-  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
-  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
-  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
-  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
-  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
-  <img src="https://cdn.discordapp.com/attachments/782644075555717140/890609168975822968/flor1-ANIMATION_2.gif" alt="Gif de flor">
 </div>
  
  
@@ -41,10 +31,11 @@
   ##
   
 <div align="center"> 
-  <a href="https://www.instagram.com/_vitoria.yre/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href = "mailto:VitoriaSantos.ipms@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href = "https://www.facebook.com/profile.php?id=100006371313783"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
- 
+  <a href="https://www.instagram.com/_vitoria.yre/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:VitoriaSantos.ipms@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://www.facebook.com/profile.php?id=100006371313783"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white target="_blank"></a>
+   <a href = "https://www.linkedin.com/in/vit%C3%B3ria-santos-aa9974220/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target="_blank"></a>
+  
 <div align="left" text-align="justify">
   <p> Olá me chamo Vitória Regina, tenho 18 anos, comecei o curso técnico de informática para internet em Setembro de 2021 e tenho objetivo de ser uma desenvolvedora Frond-End </p>
 <div align="center">
