@@ -41,7 +41,7 @@
    <a href = "https://www.linkedin.com/in/vit%C3%B3ria-santos-aa9974220/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target="_blank"></a>
   
 <div align="left" text-align="justify">
-  <p> Olá me chamo Vitória Regina, tenho 18 anos, comecei o curso técnico de informática para internet em Setembro de 2021 e tenho objetivo de ser uma desenvolvedora Frond-End </p>
+  <p> Olá me chamo Vitória Regina, tenho 18 anos, comecei o curso técnico de informática para internet em Setembro de 2021 e tenho objetivo de ser uma desenvolvedora Front-End </p>
 <div align="center">
   <img align="center" alt="Vitória-gif" src="https://cdn.discordapp.com/attachments/889572946300006450/889574286841483274/output-onlinegiftools.gif">
 </div>
