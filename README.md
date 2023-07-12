@@ -14,7 +14,7 @@
  
 ### Hi, I'm Vitória Regina 😊👋
 
-🌱 I’m currently learning: Html and Css.<br>
+🌱 I’m currently learning: Java.<br>
 👯 I’m looking to collaborate on projects that can increase my experience.    
 😄 Pronouns: She/Her.
 
@@ -29,6 +29,7 @@
   <img align="center" alt="Vitoria-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Vitoria-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Vitoria-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Vitoria-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   
 </div>
   
@@ -41,7 +42,7 @@
    <a href = "https://www.linkedin.com/in/vitoriareginasantos?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSDSlrUZdSVakMIwi1l3V4g%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target="_blank"></a>
   
 <div align="left" text-align="justify">
-  <p> Olá me chamo Vitória Regina, tenho 18 anos, comecei o curso técnico de informática para internet em Setembro de 2021 e tenho objetivo de ser uma desenvolvedora Front-End </p>
+  <p> Olá me chamo Vitória Regina, tenho 20 anos, e curso Análise e Desenvolvimento de Sistemas e tenho objetivo de ser uma desenvolvedora Front-End </p>
 <div align="center">
   <img align="center" alt="Vitória-gif" src="https://cdn.discordapp.com/attachments/889572946300006450/889574286841483274/output-onlinegiftools.gif">
 </div>
